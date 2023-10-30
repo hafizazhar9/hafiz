@@ -1,0 +1,46 @@
+/* Style for Desktop */
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #e5e5e5;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    text-align: center; /* Center content within container */
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 2px solid #555;
+}
+
+.skills {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: #007BFF;
+    color: #fff;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* ... (the rest of the styles remain the same) */
